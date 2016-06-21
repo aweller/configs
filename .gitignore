@@ -1,0 +1,7 @@
+# Atom specifics
+
+storage
+compile-cache
+dev
+.npm
+.node-gyp
